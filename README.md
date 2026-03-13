@@ -1,5 +1,9 @@
 # 💫 About Me:
 Hello there!!!
+💻 Developer | Problem Solver
+⚡ Building Web Applications
+🛠️ Tech: PHP, JavaScript, Node.js, AngularJS, Python
+📚 Exploring Networking & Real-Time Systems
 
 
 ## 🌐 Socials:
